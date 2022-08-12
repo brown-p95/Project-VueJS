@@ -4,6 +4,7 @@
   <title2 text="2.0"/>
   <Cuenta/>
 </div>
+<accionBalance/>
 </template>
 
 <script>
